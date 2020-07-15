@@ -2,7 +2,7 @@ nakamura-ka
 ===========
 Cloud Developer
 
-![icon](img/icon.png "icon")
+![icon](nakamura-ka/nakamura-ka/blob/master/img/icon.png "icon")
 
 # Languages
 * Japanese
