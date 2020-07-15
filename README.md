@@ -1,16 +1,27 @@
-### Hi there 👋
+nakamura-ka
+===========
+Cloud Developer
 
-<!--
-**nakamura-ka/nakamura-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![icon](img/icon.png "icon")
 
-Here are some ideas to get you started:
+# Languages
+* Japanese
+* TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Frameworks
+* Angular
+
+# Experience
+* AWS
+* Terraform
+
+# Certified
+## Oracle
+* Java SE 7/8 Bronze
+
+## AWS
+* Cloud Practitioner
+* Solutions Architect – Associate
+
+# Hobby
+* DJ/VJ
